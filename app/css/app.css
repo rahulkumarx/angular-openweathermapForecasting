@@ -1,0 +1,36 @@
+/* app css stylesheet */
+
+body {
+    padding-top: 80px;
+    padding-bottom: 180px;
+}
+
+.weather.panel {
+    /*font-weight: lighter !important;*/
+}
+
+.weather.panel .panel-heading {
+    font-weight: lighter !important;
+    font-size: 1.2em;
+}
+
+.weather.panel .panel-footer {
+    font-weight: lighter !important;
+}
+
+nav{
+	box-shadow: 0 1px 10px -2px rgba(0, 0, 0, 0.2);
+}
+.bg{
+	box-shadow: 0 1px 8px 1px rgba(0, 0, 0, 0.8);
+	border-radius: 5px;
+	margin-top:20px;
+}
+.col-xs-4{
+	border-radius: 25px;
+}
+.navbar{
+	background-color:transparent;
+	display:block;
+	position: absolute;
+}
