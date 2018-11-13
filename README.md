@@ -1,6 +1,6 @@
 # angular-openweathermapForecasting
 
-##Execute the program through command line
+## Execute the program through command line
 
   >**npm start**
 
@@ -11,11 +11,11 @@ http://localhost:8000/app/index.html#/forecast
 
 Open Weather Application will be Run in the browser
 
-##**First you have to install:-**
+## **First you have to install:-**
 
 >node js
 
 >angular js
 
-  ##**OUTPUT**
+  ## **OUTPUT**
   ![Screenshot](app/img/openWeather.png)
