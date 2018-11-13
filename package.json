@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rahulkumarx/angular-openWeather.git"
+    "url": "git://github.com/rahulkumarx/angular-openweathermapForecasting.git"
   },
   "scripts": {
     "start": "node scripts/web-server.js"
