@@ -2,18 +2,18 @@
 
 Execute the program through command line
 
-  npm start
+  >**npm start**
 
-  Open Web Brower
+  >**Open Web Brower**
 
-Type in URL 
+>Type in URL 
 http://localhost:8000/app/index.html#/forecast
 
 Open Weather Application will be Run in the browser
 
-First you have to install:-
-node js
-angular js
+**First you have to install:-**
+>node js
+>angular js
 
-  OUTPUT
+  >**OUTPUT**
   ![Screenshot](app/img/openWeather.png)
